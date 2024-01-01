@@ -1,9 +1,7 @@
 # E-Healthcare
 
-1) npm install - To Install all dependencies
-2) npm start run - To start project
-3) cd src
-   nodemon .\server.mjs - To start payment server
-4) cd server
-   npm start - To start server
+1) To Install all dependencies - npm install 
+2) To start project - npm start run
+3) To start payment server - i) cd src ii) nodemon .\server.mjs
+4) To start server - i) cd server ii) npm start
 
